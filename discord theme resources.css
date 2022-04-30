@@ -71,8 +71,8 @@
 #app-mount .wrapper-1VLyxH rect[fill="#593695"], #app-mount .wrapper-1VLyxH rect[mask*=streaming] {
   stroke: var(--rs-streaming-color);
 }
-#app-mount .wrapper-1VLyxH rect[fill="#747f8d"], #app-mount .wrapper-1VLyxH rect[mask*=invisble], #app-mount .wrapper-1VLyxH rect[fill=NaN] {
-  stroke: var(--rs-invisble-color);
+#app-mount .wrapper-1VLyxH rect[fill="#747f8d"], #app-mount .wrapper-1VLyxH rect[mask*=invisible], #app-mount .wrapper-1VLyxH rect[fill=NaN] {
+  stroke: var(--rs-invisible-color);
 }
 #app-mount .wrapper-1VLyxH rect[fill="#747f8d"], #app-mount .wrapper-1VLyxH rect[mask*=invisible], #app-mount .wrapper-1VLyxH rect[fill="rgba(116, 127, 141, 1)"], #app-mount .wrapper-1VLyxH rect[fill*="hsl(214"] {
   stroke: var(--rs-invisible-color);
@@ -205,7 +205,7 @@
   -webkit-clip-path: none !important;
           clip-path: none !important;
 }
-#app-mount .invisble-22aM7E img {
+#app-mount .invisible-22aM7E img {
   -webkit-clip-path: none !important;
           clip-path: none !important;
 }
